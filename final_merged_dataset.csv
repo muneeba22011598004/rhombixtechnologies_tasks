@@ -1,0 +1,9 @@
+order_id,customer_id,product_id,quantity,unit_price,discount,order_date,product_name,category,cost_price,customer_name,city,join_date,total_revenue,profit_margin_%,net_profit,order_month
+101,1,201,2,500,0.1,1/5/2024,Laptop Stand,Accessories,200,Ali Hassan,Lahore,6/1/2023,900,60,540,Jan-24
+102,2,202,1,1500,0,1/10/2024,Wireless Mouse,Peripherals,800,Sara Khan,Karachi,7/15/2023,1500,46.67,700,Jan-24
+103,3,203,3,300,0.05,1/12/2024,USB Hub,Accessories,150,Ahmed Raza,Islamabad,8/20/2023,855,50,427.5,Jan-24
+104,1,201,1,500,0.15,2/1/2024,Laptop Stand,Accessories,200,Ali Hassan,Lahore,6/1/2023,425,60,255,Feb-24
+105,4,204,2,800,0,2/14/2024,Keyboard,Peripherals,400,Fatima Malik,Rawalpindi,9/10/2023,1600,50,800,Feb-24
+106,2,203,4,300,0.1,2/20/2024,USB Hub,Accessories,150,Sara Khan,Karachi,7/15/2023,1080,50,540,Feb-24
+107,5,202,1,1500,0.2,3/5/2024,Wireless Mouse,Peripherals,800,Usman Tariq,Peshawar,10/5/2023,1200,46.67,560,Mar-24
+108,3,204,2,800,0.05,3/18/2024,Keyboard,Peripherals,400,Ahmed Raza,Islamabad,8/20/2023,1520,50,760,Mar-24

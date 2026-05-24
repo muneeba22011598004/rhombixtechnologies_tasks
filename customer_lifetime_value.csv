@@ -1,0 +1,6 @@
+customer_id,customer_name,total_orders,total_spent,total_profit,avg_order_value,customer_lifetime_value,customer_tier
+1,Ali Hassan,2,1325.0,795.0,662.5,1590.0, Silver
+2,Sara Khan,2,2580.0,1240.0,1290.0,3096.0, Gold
+3,Ahmed Raza,2,2375.0,1187.5,1187.5,2850.0, Silver
+4,Fatima Malik,1,1600.0,800.0,1600.0,1760.0, Silver
+5,Usman Tariq,1,1200.0,560.0,1200.0,1320.0, Bronze
